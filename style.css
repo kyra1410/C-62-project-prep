@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#Authors{
+ background: linear-gradient(blueviolet 0%, purple 100%); 
+
+}
+h1{
+    font-family: 'Cedarville Cursive';
+    color: hotpink;
+    font-size: 22px;
+
+}
+img{
+    transition:transform 0.2s;
+}
+img:hover{
+    transform:scale(0.9);
+}
